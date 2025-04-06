@@ -1,0 +1,13 @@
+{
+    "version": "2.0",
+    "ConnectionString": "Endpoint=sb://kp-sb-practise.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=PUVMDIKgZE2NimfKStGJQmPdlR5lP68VY+ASbDaSLnw=",
+    "logging": {
+        "applicationInsights": {
+            "samplingSettings": {
+                "isEnabled": true,
+                "excludedTypes": "Request"
+            },
+            "enableLiveMetricsFilters": true
+        }
+    }
+}
